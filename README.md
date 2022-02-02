@@ -1,10 +1,8 @@
+<h2 align="center">My github profile stastictics.</h2>
 
-<br />
-- 🌱 Learning Web Development.
-<a href="https://github.com/Zelphiaa">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Zelphiaa&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true" alt="Zelphiaa GitHub Stats" />
-
-</a>
-<br />
-<br />
-<br />
+<p align="center">
+    <a href="https://github.com/Zelphiaa">
+        <img title="Zelphiaa stats" alt="Zelphiaa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Zelphiaa&theme=dark&hide_border=true&stroke=f53b3b"/>
+    </a>
+</p><br>
+<a href="https://github.com/Zelphiaa"><img alt="Zelphiaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Zelphiaa&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
