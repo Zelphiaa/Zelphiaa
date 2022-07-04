@@ -4,7 +4,6 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[RL Spotify](https://rl.Spotify)**
-- 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me **[Zelphia#9404](https://zelphia.monster/)** in Discord
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://zelphia.monster)**
 
