@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[RL Spotify](https://rl.Spotify)**
-- 📫 How to reach me **[Zelphia#9404](https://zelphia.monster/)** in Discord
+- 📫 How to reach me **[poxoy#5092](https://zelphia.monster/)** in Discord
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://zelphia.monster)**
 
 ## 🚀 Languages and Tools:
@@ -24,7 +24,7 @@
   
 ## 👤 Me in this moment
 <p align="center">
-    <a href="https://discord.com/users/954463893130977311" target="_blank" rel="nofollow">
+    <a href="https://discord.com/users/1005212037774843934" target="_blank" rel="nofollow">
         <img src="https://lanyard-profile-readme.vercel.app/api/954463893130977311?idleMessage=Probably%20coding%20Absolet..." alt="Discord Presence" align="center">
     </a>
 </p>
